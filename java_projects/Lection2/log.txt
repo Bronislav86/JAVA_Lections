@@ -1,0 +1,4 @@
+янв. 20, 2024 3:28:32 PM Seminar2.Ex005_Logger main
+WARNING: Тестовое логирование 1
+янв. 20, 2024 3:28:32 PM Seminar2.Ex005_Logger main
+INFO: Тестовое логирование 2
